@@ -5,6 +5,16 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/GitHub/Anatidae/Anatidae/Content/ThirdPerson/Blueprints/B.uasset",
+				"D:/GitHub/Anatidae/Anatidae/Content/ThirdPerson/Blueprints/DetectionInterface.uasset",
+				"D:/GitHub/Anatidae/Anatidae/Content/ThirdPerson/Blueprints/DetectionWidget.uasset",
+				"D:/GitHub/Anatidae/Anatidae/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/ZA/IHQDIUC6FXWIKTOTB3531U.uasset",
+				"D:/GitHub/Anatidae/Anatidae/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/JN/O1A1GN3ZL8BBKCRBHLTEK6.uasset",
+				"D:/GitHub/Anatidae/Anatidae/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/4V/TX2YB3VQ0D656JXWNTGEAP.uasset",
+				"D:/GitHub/Anatidae/Anatidae/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/GitHub/Anatidae/Anatidae/Content/ThirdPerson/Blueprints/undefined_-_Imgur.uasset",
+				"D:/GitHub/Anatidae/Anatidae/Content/ThirdPerson/Blueprints/undefined_-_Imgur__1_.uasset",
+				"D:/GitHub/Anatidae/Anatidae/Content/ThirdPerson/Blueprints/BP_IAPATO.uasset",
 				"E:/Github/Anatidae/Anatidae/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
 			]
 		}
