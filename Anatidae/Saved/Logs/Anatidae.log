@@ -2818,3 +2818,41 @@ _MatTransl_3B7A55D3409170328211A060FC2E3BB1E263C720_BBD650804D314CE7A44ADF9BB4F3
 [2024.05.17-15.31.21:306][511]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
 [2024.05.17-15.31.24:212][749]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:56799'.
 [2024.05.17-15.31.24:213][749]LogUdpMessaging: Display: Added local interface '192.168.100.3' to multicast group '230.0.0.1:6666'
+[2024.05.17-15.35.17:379][457]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2024.05.17-15.35.17:383][457]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.024
+[2024.05.17-15.35.17:383][457]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/MenuesBruno/WB_MENUDEATH] ([2] browsable assets)...
+[2024.05.17-15.35.17:388][457]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/MenuesBruno/WB_MENUDEATH.WB_MENUDEATH]
+[2024.05.17-15.35.17:388][457]OBJ SavePackage: Finished generating thumbnails for package [/Game/MenuesBruno/WB_MENUDEATH]
+[2024.05.17-15.35.17:395][457]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MenuesBruno/WB_MENUDEATH_Auto1
+[2024.05.17-15.35.17:396][457]LogSavePackage: Moving '../../../../../../Users/Bruno Thompson/Documents/Anatidae/Anatidae/Saved/WB_MENUDEATH_Auto10955E3F84E56BD94172C458F954853F7.tmp' to '../../../../../../Users/Bruno Thompson/Documents/Anatidae/Anatidae/Saved/Autosaves/Game/MenuesBruno/WB_MENUDEATH_Auto1.uasset'
+[2024.05.17-15.35.17:397][457]LogFileHelpers: Auto-saving content packages took 0.014
+[2024.05.17-15.40.39:591][127]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.17-15.40.39:623][127]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/MenuesBruno/WB_MENUDEATH] ([2] browsable assets)...
+[2024.05.17-15.40.39:625][127]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/MenuesBruno/WB_MENUDEATH.WB_MENUDEATH]
+[2024.05.17-15.40.39:625][127]OBJ SavePackage: Finished generating thumbnails for package [/Game/MenuesBruno/WB_MENUDEATH]
+[2024.05.17-15.40.39:625][127]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MenuesBruno/WB_MENUDEATH" FILE="../../../../../../Users/Bruno Thompson/Documents/Anatidae/Anatidae/Content/MenuesBruno/WB_MENUDEATH.uasset" SILENT=true
+[2024.05.17-15.40.39:630][127]LogSavePackage: Moving output files for package: /Game/MenuesBruno/WB_MENUDEATH
+[2024.05.17-15.40.39:631][127]LogSavePackage: Moving '../../../../../../Users/Bruno Thompson/Documents/Anatidae/Anatidae/Saved/WB_MENUDEATHFF7F62BF445C6A7DE592299E330189E1.tmp' to '../../../../../../Users/Bruno Thompson/Documents/Anatidae/Anatidae/Content/MenuesBruno/WB_MENUDEATH.uasset'
+[2024.05.17-15.40.39:637][127]LogFileHelpers: InternalPromptForCheckoutAndSave took 45.446 ms (total: 762.120 ms)
+[2024.05.17-15.40.39:687][127]LogContentValidation: Display: Starting to validate 1 assets
+[2024.05.17-15.40.39:687][127]LogContentValidation: Enabled validators:
+[2024.05.17-15.40.39:687][127]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.05.17-15.40.39:687][127]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.05.17-15.40.39:687][127]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.05.17-15.40.39:687][127]LogContentValidation: Display: Validating asset /Game/MenuesBruno/WB_MENUDEATH.WB_MENUDEATH
+[2024.05.17-15.40.39:687][127]AssetCheck: /Game/MenuesBruno/WB_MENUDEATH Validating asset
+[2024.05.17-15.40.54:195][744]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.17-15.40.54:235][744]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MenuesBruno/WB_MENUDEATH] ([2] browsable assets)...
+[2024.05.17-15.40.54:235][744]OBJ SavePackage: Finished generating thumbnails for package [/Game/MenuesBruno/WB_MENUDEATH]
+[2024.05.17-15.40.54:235][744]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MenuesBruno/WB_MENUDEATH" FILE="../../../../../../Users/Bruno Thompson/Documents/Anatidae/Anatidae/Content/MenuesBruno/WB_MENUDEATH.uasset" SILENT=true
+[2024.05.17-15.40.54:239][744]LogSavePackage: Moving output files for package: /Game/MenuesBruno/WB_MENUDEATH
+[2024.05.17-15.40.54:240][744]LogSavePackage: Moving '../../../../../../Users/Bruno Thompson/Documents/Anatidae/Anatidae/Saved/WB_MENUDEATH1D3D808545A36BE2CADECD90B4862B71.tmp' to '../../../../../../Users/Bruno Thompson/Documents/Anatidae/Anatidae/Content/MenuesBruno/WB_MENUDEATH.uasset'
+[2024.05.17-15.40.54:246][744]LogFileHelpers: InternalPromptForCheckoutAndSave took 51.121 ms (total: 813.241 ms)
+[2024.05.17-15.40.54:300][744]LogContentValidation: Display: Starting to validate 1 assets
+[2024.05.17-15.40.54:300][744]LogContentValidation: Enabled validators:
+[2024.05.17-15.40.54:300][744]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.05.17-15.40.54:300][744]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.05.17-15.40.54:300][744]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.05.17-15.40.54:300][744]LogContentValidation: Display: Validating asset /Game/MenuesBruno/WB_MENUDEATH.WB_MENUDEATH
+[2024.05.17-15.40.54:300][744]AssetCheck: /Game/MenuesBruno/WB_MENUDEATH Validating asset
+[2024.05.17-15.41.31:047][ 54]LogSlate: Window 'Color Picker' being destroyed
