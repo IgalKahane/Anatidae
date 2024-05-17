@@ -1898,3 +1898,19 @@ _MatTransl_3B7A55D3409170328211A060FC2E3BB1E263C720_BBD650804D314CE7A44ADF9BB4F3
 [2024.05.17-00.59.11:828][806]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2024.05.17-00.59.11:828][806]LogContentValidation: Display: Validating asset /Game/L_MainMenuBruno.L_MainMenuBruno
 [2024.05.17-00.59.11:828][806]AssetCheck: /Game/L_MainMenuBruno Validating asset
+[2024.05.17-01.00.44:450][575]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.17-01.00.44:451][575]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/L_MainMenuBruno" FILE="../../../../../../Users/Bruno Thompson/Documents/Anatidae/Anatidae/Content/L_MainMenuBruno.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.05.17-01.00.44:482][575]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2024.05.17-01.00.44:486][575]LogWorldPartition: Can't find class descriptor '/Game/L_MainMenuBruno.L_MainMenuBruno_C' for saving '/Game/L_MainMenuBruno.L_MainMenuBruno_C'
+[2024.05.17-01.00.44:486][575]LogWorldPartition: Can't find class descriptor '/Game/L_MainMenuBruno.L_MainMenuBruno_C' for saving '/Game/L_MainMenuBruno.L_MainMenuBruno_C'
+[2024.05.17-01.00.44:487][575]LogSavePackage: Moving output files for package: /Game/L_MainMenuBruno
+[2024.05.17-01.00.44:487][575]LogSavePackage: Moving '../../../../../../Users/Bruno Thompson/Documents/Anatidae/Anatidae/Saved/L_MainMenuBruno1C81FCCB47A0E86BE187919B8141ED8D.tmp' to '../../../../../../Users/Bruno Thompson/Documents/Anatidae/Anatidae/Content/L_MainMenuBruno.umap'
+[2024.05.17-01.00.44:491][575]LogFileHelpers: Saving map 'L_MainMenuBruno' took 0.041
+[2024.05.17-01.00.44:492][575]LogFileHelpers: InternalPromptForCheckoutAndSave took 41.130 ms (total: 422.704 ms)
+[2024.05.17-01.00.44:493][575]LogContentValidation: Display: Starting to validate 1 assets
+[2024.05.17-01.00.44:493][575]LogContentValidation: Enabled validators:
+[2024.05.17-01.00.44:493][575]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.05.17-01.00.44:493][575]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.05.17-01.00.44:493][575]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.05.17-01.00.44:493][575]LogContentValidation: Display: Validating asset /Game/L_MainMenuBruno.L_MainMenuBruno
+[2024.05.17-01.00.44:493][575]AssetCheck: /Game/L_MainMenuBruno Validating asset
