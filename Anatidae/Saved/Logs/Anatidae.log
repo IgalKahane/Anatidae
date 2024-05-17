@@ -1167,3 +1167,206 @@ _MatTransl_3B7A55D3409170328211A060FC2E3BB1E263C720_BBD650804D314CE7A44ADF9BB4F3
 [2024.05.17-18.56.34:616][809]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MenuesBruno/WBCREDITS_Auto2
 [2024.05.17-18.56.34:616][809]LogSavePackage: Moving '../../../../../../Users/Bruno Thompson/Documents/Anatidae/Anatidae/Saved/WBCREDITS_Auto2C9A30D62457F309509CA35A230928839.tmp' to '../../../../../../Users/Bruno Thompson/Documents/Anatidae/Anatidae/Saved/Autosaves/Game/MenuesBruno/WBCREDITS_Auto2.uasset'
 [2024.05.17-18.56.34:617][809]LogFileHelpers: Auto-saving content packages took 0.007
+[2024.05.17-19.00.42:955][479]LogHttp: Warning: 00000749DF247E00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.05.17-19.00.42:955][479]LogHttp: Warning: 00000749DF247E00: libcurl info message cache 0 (Found bundle for host: 0x74967160d50 [serially])
+[2024.05.17-19.00.42:956][479]LogHttp: Warning: 00000749DF247E00: libcurl info message cache 1 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2024.05.17-19.00.42:956][479]LogHttp: Warning: 00000749DF247E00: libcurl info message cache 2 (We are completely uploaded and fine)
+[2024.05.17-19.00.42:956][480]LogHttp: Warning: 00000749DF247E00: libcurl info message cache 3 (Recv failure: Connection was reset)
+[2024.05.17-19.00.42:956][480]LogHttp: Warning: 00000749DF247E00: libcurl info message cache 4 (OpenSSL SSL_read: Connection was reset, errno 10054)
+[2024.05.17-19.00.42:956][480]LogHttp: Warning: 00000749DF247E00: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.05.17-19.00.42:956][480]LogHttp: Warning: 00000749DF247E00: libcurl info message cache 6 (state.rewindbeforesend = TRUE)
+[2024.05.17-19.00.42:956][480]LogHttp: Warning: 00000749DF247E00: libcurl info message cache 7 (Closing connection)
+[2024.05.17-19.00.42:956][480]LogHttp: Warning: 00000749DF247E00: libcurl info message cache 8 (Recv failure: Connection was reset)
+[2024.05.17-19.00.42:956][480]LogHttp: Warning: 00000749DF247E00: libcurl info message cache 9 (Send failure: Connection was reset)
+[2024.05.17-19.00.42:956][480]LogHttp: Warning: 00000749DF247E00: libcurl info message cache 10 (Recv failure: Connection was reset)
+[2024.05.17-19.00.42:956][480]LogHttp: Warning: 00000749DF247E00: libcurl info message cache 11 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B94885473-493F-3764-F0C5-B1BED7F43515%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.4.1-33305029%2B%2B%2BUE5%2BRelease-5.4&UserID=5bd7cb9448b5f898562366846025d7ec%7C57bd556745374c7db549b0bf6e88b3d8%7C82ed0bed-d29d-4c7a-9283-d89260104f49&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2024.05.17-19.00.42:956][480]LogHttp: Warning: 00000749DF247E00: libcurl info message cache 12 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.05.17-19.00.42:956][480]LogHttp: Warning: 00000749DF247E00: libcurl info message cache 13 (Closing connection)
+[2024.05.17-19.00.42:956][480]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B94885473-493F-3764-F0C5-B1BED7F43515%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.4.1-33305029%2B%2B%2BUE5%2BRelease-5.4&UserID=5bd7cb9448b5f898562366846025d7ec%7C57bd556745374c7db549b0bf6e88b3d8%7C82ed0bed-d29d-4c7a-9283-d89260104f49&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.05.17-19.01.23:955][602]LogHttp: Warning: 00000749DF249A00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.05.17-19.01.23:955][602]LogHttp: Warning: 00000749DF249A00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.05.17-19.01.23:955][602]LogHttp: Warning: 00000749DF249A00: libcurl info message cache 1 (Closing connection)
+[2024.05.17-19.01.23:955][602]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B94885473-493F-3764-F0C5-B1BED7F43515%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.4.1-33305029%2B%2B%2BUE5%2BRelease-5.4&UserID=5bd7cb9448b5f898562366846025d7ec%7C57bd556745374c7db549b0bf6e88b3d8%7C82ed0bed-d29d-4c7a-9283-d89260104f49&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.05.17-19.02.23:955][782]LogHttp: Warning: 00000749DF24E700: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.05.17-19.02.23:955][782]LogHttp: Warning: 00000749DF24E700: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.05.17-19.02.23:955][782]LogHttp: Warning: 00000749DF24E700: libcurl info message cache 1 (Closing connection)
+[2024.05.17-19.02.23:955][782]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B94885473-493F-3764-F0C5-B1BED7F43515%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.4.1-33305029%2B%2B%2BUE5%2BRelease-5.4&UserID=5bd7cb9448b5f898562366846025d7ec%7C57bd556745374c7db549b0bf6e88b3d8%7C82ed0bed-d29d-4c7a-9283-d89260104f49&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.05.17-19.03.23:954][962]LogHttp: Warning: 00000749DF24E000: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.05.17-19.03.23:954][962]LogHttp: Warning: 00000749DF24E000: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.05.17-19.03.23:954][962]LogHttp: Warning: 00000749DF24E000: libcurl info message cache 1 (Closing connection)
+[2024.05.17-19.03.23:954][962]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B94885473-493F-3764-F0C5-B1BED7F43515%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.4.1-33305029%2B%2B%2BUE5%2BRelease-5.4&UserID=5bd7cb9448b5f898562366846025d7ec%7C57bd556745374c7db549b0bf6e88b3d8%7C82ed0bed-d29d-4c7a-9283-d89260104f49&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.05.17-19.04.23:957][142]LogHttp: Warning: 00000749DF24BD00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.05.17-19.04.23:957][142]LogHttp: Warning: 00000749DF24BD00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.05.17-19.04.23:957][142]LogHttp: Warning: 00000749DF24BD00: libcurl info message cache 1 (Closing connection)
+[2024.05.17-19.04.23:957][142]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B94885473-493F-3764-F0C5-B1BED7F43515%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.4.1-33305029%2B%2B%2BUE5%2BRelease-5.4&UserID=5bd7cb9448b5f898562366846025d7ec%7C57bd556745374c7db549b0bf6e88b3d8%7C82ed0bed-d29d-4c7a-9283-d89260104f49&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.05.17-19.05.23:956][322]LogHttp: Warning: 00000749DF249300: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.05.17-19.05.23:956][322]LogHttp: Warning: 00000749DF249300: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.05.17-19.05.23:956][322]LogHttp: Warning: 00000749DF249300: libcurl info message cache 1 (Closing connection)
+[2024.05.17-19.05.23:956][322]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B94885473-493F-3764-F0C5-B1BED7F43515%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.4.1-33305029%2B%2B%2BUE5%2BRelease-5.4&UserID=5bd7cb9448b5f898562366846025d7ec%7C57bd556745374c7db549b0bf6e88b3d8%7C82ed0bed-d29d-4c7a-9283-d89260104f49&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.05.17-19.06.23:955][502]LogHttp: Warning: 00000749DF248500: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.05.17-19.06.23:955][502]LogHttp: Warning: 00000749DF248500: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.05.17-19.06.23:955][502]LogHttp: Warning: 00000749DF248500: libcurl info message cache 1 (Closing connection)
+[2024.05.17-19.06.23:955][502]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B94885473-493F-3764-F0C5-B1BED7F43515%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.4.1-33305029%2B%2B%2BUE5%2BRelease-5.4&UserID=5bd7cb9448b5f898562366846025d7ec%7C57bd556745374c7db549b0bf6e88b3d8%7C82ed0bed-d29d-4c7a-9283-d89260104f49&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.05.17-19.06.35:345][536]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.05.17-19.06.35:346][536]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.018
+[2024.05.17-19.06.35:347][536]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/MenuesBruno/WBCREDITS] ([2] browsable assets)...
+[2024.05.17-19.06.35:349][536]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/MenuesBruno/WBCREDITS.WBCREDITS]
+[2024.05.17-19.06.35:349][536]OBJ SavePackage: Finished generating thumbnails for package [/Game/MenuesBruno/WBCREDITS]
+[2024.05.17-19.06.35:352][536]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MenuesBruno/WBCREDITS_Auto3
+[2024.05.17-19.06.35:352][536]LogSavePackage: Moving '../../../../../../Users/Bruno Thompson/Documents/Anatidae/Anatidae/Saved/WBCREDITS_Auto35503DA7C4A8202C895895D8DD63719F9.tmp' to '../../../../../../Users/Bruno Thompson/Documents/Anatidae/Anatidae/Saved/Autosaves/Game/MenuesBruno/WBCREDITS_Auto3.uasset'
+[2024.05.17-19.06.35:353][536]LogFileHelpers: Auto-saving content packages took 0.007
+[2024.05.17-19.07.23:956][682]LogHttp: Warning: 00000749DF24BD00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.05.17-19.07.23:956][682]LogHttp: Warning: 00000749DF24BD00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.05.17-19.07.23:956][682]LogHttp: Warning: 00000749DF24BD00: libcurl info message cache 1 (Closing connection)
+[2024.05.17-19.07.23:956][682]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B94885473-493F-3764-F0C5-B1BED7F43515%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.4.1-33305029%2B%2B%2BUE5%2BRelease-5.4&UserID=5bd7cb9448b5f898562366846025d7ec%7C57bd556745374c7db549b0bf6e88b3d8%7C82ed0bed-d29d-4c7a-9283-d89260104f49&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.05.17-19.08.23:956][862]LogHttp: Warning: 00000749DF242A00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.05.17-19.08.23:956][862]LogHttp: Warning: 00000749DF242A00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.05.17-19.08.23:956][862]LogHttp: Warning: 00000749DF242A00: libcurl info message cache 1 (Closing connection)
+[2024.05.17-19.08.23:956][862]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B94885473-493F-3764-F0C5-B1BED7F43515%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.4.1-33305029%2B%2B%2BUE5%2BRelease-5.4&UserID=5bd7cb9448b5f898562366846025d7ec%7C57bd556745374c7db549b0bf6e88b3d8%7C82ed0bed-d29d-4c7a-9283-d89260104f49&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.05.17-19.09.23:956][ 42]LogHttp: Warning: 00000749DF247E00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.05.17-19.09.23:956][ 42]LogHttp: Warning: 00000749DF247E00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.05.17-19.09.23:956][ 42]LogHttp: Warning: 00000749DF247E00: libcurl info message cache 1 (Closing connection)
+[2024.05.17-19.09.23:956][ 42]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B94885473-493F-3764-F0C5-B1BED7F43515%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.4.1-33305029%2B%2B%2BUE5%2BRelease-5.4&UserID=5bd7cb9448b5f898562366846025d7ec%7C57bd556745374c7db549b0bf6e88b3d8%7C82ed0bed-d29d-4c7a-9283-d89260104f49&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.05.17-19.10.23:955][222]LogHttp: Warning: 00000749DF24CB00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.05.17-19.10.23:955][222]LogHttp: Warning: 00000749DF24CB00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.05.17-19.10.23:955][222]LogHttp: Warning: 00000749DF24CB00: libcurl info message cache 1 (Closing connection)
+[2024.05.17-19.10.23:955][222]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B94885473-493F-3764-F0C5-B1BED7F43515%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.4.1-33305029%2B%2B%2BUE5%2BRelease-5.4&UserID=5bd7cb9448b5f898562366846025d7ec%7C57bd556745374c7db549b0bf6e88b3d8%7C82ed0bed-d29d-4c7a-9283-d89260104f49&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.05.17-19.11.23:956][402]LogHttp: Warning: 00000749DF249300: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.05.17-19.11.23:956][402]LogHttp: Warning: 00000749DF249300: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.05.17-19.11.23:956][402]LogHttp: Warning: 00000749DF249300: libcurl info message cache 1 (Closing connection)
+[2024.05.17-19.11.23:956][402]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B94885473-493F-3764-F0C5-B1BED7F43515%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.4.1-33305029%2B%2B%2BUE5%2BRelease-5.4&UserID=5bd7cb9448b5f898562366846025d7ec%7C57bd556745374c7db549b0bf6e88b3d8%7C82ed0bed-d29d-4c7a-9283-d89260104f49&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.05.17-19.12.23:956][582]LogHttp: Warning: 00000749DF248500: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.05.17-19.12.23:956][582]LogHttp: Warning: 00000749DF248500: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.05.17-19.12.23:956][582]LogHttp: Warning: 00000749DF248500: libcurl info message cache 1 (Closing connection)
+[2024.05.17-19.12.23:956][582]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B94885473-493F-3764-F0C5-B1BED7F43515%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.4.1-33305029%2B%2B%2BUE5%2BRelease-5.4&UserID=5bd7cb9448b5f898562366846025d7ec%7C57bd556745374c7db549b0bf6e88b3d8%7C82ed0bed-d29d-4c7a-9283-d89260104f49&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.05.17-19.13.23:956][762]LogHttp: Warning: 00000749DF249A00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.05.17-19.13.23:956][762]LogHttp: Warning: 00000749DF249A00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.05.17-19.13.23:956][762]LogHttp: Warning: 00000749DF249A00: libcurl info message cache 1 (Closing connection)
+[2024.05.17-19.13.23:956][762]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B94885473-493F-3764-F0C5-B1BED7F43515%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.4.1-33305029%2B%2B%2BUE5%2BRelease-5.4&UserID=5bd7cb9448b5f898562366846025d7ec%7C57bd556745374c7db549b0bf6e88b3d8%7C82ed0bed-d29d-4c7a-9283-d89260104f49&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.05.17-19.14.23:956][942]LogHttp: Warning: 00000749DF24E000: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.05.17-19.14.23:956][942]LogHttp: Warning: 00000749DF24E000: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.05.17-19.14.23:956][942]LogHttp: Warning: 00000749DF24E000: libcurl info message cache 1 (Closing connection)
+[2024.05.17-19.14.23:956][942]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B94885473-493F-3764-F0C5-B1BED7F43515%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.4.1-33305029%2B%2B%2BUE5%2BRelease-5.4&UserID=5bd7cb9448b5f898562366846025d7ec%7C57bd556745374c7db549b0bf6e88b3d8%7C82ed0bed-d29d-4c7a-9283-d89260104f49&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.05.17-19.15.23:744][121]LogHttp: Warning: 00000749DF249300: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.05.17-19.15.23:744][121]LogHttp: Warning: 00000749DF249300: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.05.17-19.15.23:744][121]LogHttp: Warning: 00000749DF249300: libcurl info message cache 1 (Closing connection)
+[2024.05.17-19.15.23:744][121]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B94885473-493F-3764-F0C5-B1BED7F43515%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.4.1-33305029%2B%2B%2BUE5%2BRelease-5.4&UserID=5bd7cb9448b5f898562366846025d7ec%7C57bd556745374c7db549b0bf6e88b3d8%7C82ed0bed-d29d-4c7a-9283-d89260104f49&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.05.17-19.16.23:746][301]LogHttp: Warning: 00000749DF24E700: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.05.17-19.16.23:746][301]LogHttp: Warning: 00000749DF24E700: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.05.17-19.16.23:746][301]LogHttp: Warning: 00000749DF24E700: libcurl info message cache 1 (Closing connection)
+[2024.05.17-19.16.23:746][301]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B94885473-493F-3764-F0C5-B1BED7F43515%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.4.1-33305029%2B%2B%2BUE5%2BRelease-5.4&UserID=5bd7cb9448b5f898562366846025d7ec%7C57bd556745374c7db549b0bf6e88b3d8%7C82ed0bed-d29d-4c7a-9283-d89260104f49&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.05.17-19.17.23:746][481]LogHttp: Warning: 00000749DF247E00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.05.17-19.17.23:746][481]LogHttp: Warning: 00000749DF247E00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.05.17-19.17.23:746][481]LogHttp: Warning: 00000749DF247E00: libcurl info message cache 1 (Closing connection)
+[2024.05.17-19.17.23:746][481]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B94885473-493F-3764-F0C5-B1BED7F43515%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.4.1-33305029%2B%2B%2BUE5%2BRelease-5.4&UserID=5bd7cb9448b5f898562366846025d7ec%7C57bd556745374c7db549b0bf6e88b3d8%7C82ed0bed-d29d-4c7a-9283-d89260104f49&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.05.17-19.18.23:747][661]LogHttp: Warning: 00000749DF24CB00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.05.17-19.18.23:747][661]LogHttp: Warning: 00000749DF24CB00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.05.17-19.18.23:747][661]LogHttp: Warning: 00000749DF24CB00: libcurl info message cache 1 (Closing connection)
+[2024.05.17-19.18.23:747][661]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B94885473-493F-3764-F0C5-B1BED7F43515%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.4.1-33305029%2B%2B%2BUE5%2BRelease-5.4&UserID=5bd7cb9448b5f898562366846025d7ec%7C57bd556745374c7db549b0bf6e88b3d8%7C82ed0bed-d29d-4c7a-9283-d89260104f49&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.05.17-19.19.23:746][841]LogHttp: Warning: 00000749DF24BD00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.05.17-19.19.23:746][841]LogHttp: Warning: 00000749DF24BD00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.05.17-19.19.23:746][841]LogHttp: Warning: 00000749DF24BD00: libcurl info message cache 1 (Closing connection)
+[2024.05.17-19.19.23:746][841]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B94885473-493F-3764-F0C5-B1BED7F43515%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.4.1-33305029%2B%2B%2BUE5%2BRelease-5.4&UserID=5bd7cb9448b5f898562366846025d7ec%7C57bd556745374c7db549b0bf6e88b3d8%7C82ed0bed-d29d-4c7a-9283-d89260104f49&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.05.17-19.20.23:747][ 21]LogHttp: Warning: 00000749DF248500: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.05.17-19.20.23:747][ 21]LogHttp: Warning: 00000749DF248500: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.05.17-19.20.23:747][ 21]LogHttp: Warning: 00000749DF248500: libcurl info message cache 1 (Closing connection)
+[2024.05.17-19.20.23:747][ 22]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B94885473-493F-3764-F0C5-B1BED7F43515%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.4.1-33305029%2B%2B%2BUE5%2BRelease-5.4&UserID=5bd7cb9448b5f898562366846025d7ec%7C57bd556745374c7db549b0bf6e88b3d8%7C82ed0bed-d29d-4c7a-9283-d89260104f49&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.05.17-19.21.23:749][201]LogHttp: Warning: 00000749DF242A00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.05.17-19.21.23:749][201]LogHttp: Warning: 00000749DF242A00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.05.17-19.21.23:749][201]LogHttp: Warning: 00000749DF242A00: libcurl info message cache 1 (Closing connection)
+[2024.05.17-19.21.23:749][201]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B94885473-493F-3764-F0C5-B1BED7F43515%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.4.1-33305029%2B%2B%2BUE5%2BRelease-5.4&UserID=5bd7cb9448b5f898562366846025d7ec%7C57bd556745374c7db549b0bf6e88b3d8%7C82ed0bed-d29d-4c7a-9283-d89260104f49&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.05.17-19.22.23:749][381]LogHttp: Warning: 00000749DF249A00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.05.17-19.22.23:749][381]LogHttp: Warning: 00000749DF249A00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.05.17-19.22.23:749][381]LogHttp: Warning: 00000749DF249A00: libcurl info message cache 1 (Closing connection)
+[2024.05.17-19.22.23:749][382]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B94885473-493F-3764-F0C5-B1BED7F43515%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.4.1-33305029%2B%2B%2BUE5%2BRelease-5.4&UserID=5bd7cb9448b5f898562366846025d7ec%7C57bd556745374c7db549b0bf6e88b3d8%7C82ed0bed-d29d-4c7a-9283-d89260104f49&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.05.17-19.23.23:752][561]LogHttp: Warning: 00000749DF249300: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.05.17-19.23.23:752][561]LogHttp: Warning: 00000749DF249300: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.05.17-19.23.23:753][561]LogHttp: Warning: 00000749DF249300: libcurl info message cache 1 (Closing connection)
+[2024.05.17-19.23.23:753][561]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B94885473-493F-3764-F0C5-B1BED7F43515%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.4.1-33305029%2B%2B%2BUE5%2BRelease-5.4&UserID=5bd7cb9448b5f898562366846025d7ec%7C57bd556745374c7db549b0bf6e88b3d8%7C82ed0bed-d29d-4c7a-9283-d89260104f49&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.05.17-19.24.23:753][741]LogHttp: Warning: 00000749DF24E700: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.05.17-19.24.23:753][741]LogHttp: Warning: 00000749DF24E700: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.05.17-19.24.23:753][741]LogHttp: Warning: 00000749DF24E700: libcurl info message cache 1 (Closing connection)
+[2024.05.17-19.24.23:753][741]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B94885473-493F-3764-F0C5-B1BED7F43515%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.4.1-33305029%2B%2B%2BUE5%2BRelease-5.4&UserID=5bd7cb9448b5f898562366846025d7ec%7C57bd556745374c7db549b0bf6e88b3d8%7C82ed0bed-d29d-4c7a-9283-d89260104f49&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.05.17-19.25.23:752][921]LogHttp: Warning: 00000749DF247E00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.05.17-19.25.23:752][921]LogHttp: Warning: 00000749DF247E00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.05.17-19.25.23:752][921]LogHttp: Warning: 00000749DF247E00: libcurl info message cache 1 (Closing connection)
+[2024.05.17-19.25.23:752][921]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B94885473-493F-3764-F0C5-B1BED7F43515%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.4.1-33305029%2B%2B%2BUE5%2BRelease-5.4&UserID=5bd7cb9448b5f898562366846025d7ec%7C57bd556745374c7db549b0bf6e88b3d8%7C82ed0bed-d29d-4c7a-9283-d89260104f49&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.05.17-19.25.56:765][741]LogDerivedDataCache: C:/Users/Bruno Thompson/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.100 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 926 files in 1579 folders with total size 69 MiB.
+[2024.05.17-19.26.15:641][998]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.17-19.26.15:690][998]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/MenuesBruno/WBCREDITS] ([2] browsable assets)...
+[2024.05.17-19.26.15:692][998]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/MenuesBruno/WBCREDITS.WBCREDITS]
+[2024.05.17-19.26.15:692][998]OBJ SavePackage: Finished generating thumbnails for package [/Game/MenuesBruno/WBCREDITS]
+[2024.05.17-19.26.15:692][998]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MenuesBruno/WBCREDITS" FILE="../../../../../../Users/Bruno Thompson/Documents/Anatidae/Anatidae/Content/MenuesBruno/WBCREDITS.uasset" SILENT=true
+[2024.05.17-19.26.15:695][998]LogSavePackage: Moving output files for package: /Game/MenuesBruno/WBCREDITS
+[2024.05.17-19.26.15:696][998]LogSavePackage: Moving '../../../../../../Users/Bruno Thompson/Documents/Anatidae/Anatidae/Saved/WBCREDITSFABE12F345FEEB2A8E6E96892D2F0CB2.tmp' to '../../../../../../Users/Bruno Thompson/Documents/Anatidae/Anatidae/Content/MenuesBruno/WBCREDITS.uasset'
+[2024.05.17-19.26.15:702][998]LogFileHelpers: InternalPromptForCheckoutAndSave took 61.375 ms (total: 325.273 ms)
+[2024.05.17-19.26.15:755][998]LogContentValidation: Display: Starting to validate 1 assets
+[2024.05.17-19.26.15:755][998]LogContentValidation: Enabled validators:
+[2024.05.17-19.26.15:755][998]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.05.17-19.26.15:755][998]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.05.17-19.26.15:755][998]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.05.17-19.26.15:755][998]LogContentValidation: Display: Validating asset /Game/MenuesBruno/WBCREDITS.WBCREDITS
+[2024.05.17-19.26.15:756][998]AssetCheck: /Game/MenuesBruno/WBCREDITS Validating asset
+[2024.05.17-19.26.23:894][342]LogHttp: Warning: 00000749DF242A00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.05.17-19.26.23:894][342]LogHttp: Warning: 00000749DF242A00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.05.17-19.26.23:894][342]LogHttp: Warning: 00000749DF242A00: libcurl info message cache 1 (Closing connection)
+[2024.05.17-19.26.23:894][343]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B94885473-493F-3764-F0C5-B1BED7F43515%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.4.1-33305029%2B%2B%2BUE5%2BRelease-5.4&UserID=5bd7cb9448b5f898562366846025d7ec%7C57bd556745374c7db549b0bf6e88b3d8%7C82ed0bed-d29d-4c7a-9283-d89260104f49&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.05.17-19.27.23:903][425]LogHttp: Warning: 00000749DF242A00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.05.17-19.27.23:903][425]LogHttp: Warning: 00000749DF242A00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.05.17-19.27.23:903][425]LogHttp: Warning: 00000749DF242A00: libcurl info message cache 1 (Closing connection)
+[2024.05.17-19.27.23:903][425]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B94885473-493F-3764-F0C5-B1BED7F43515%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.4.1-33305029%2B%2B%2BUE5%2BRelease-5.4&UserID=5bd7cb9448b5f898562366846025d7ec%7C57bd556745374c7db549b0bf6e88b3d8%7C82ed0bed-d29d-4c7a-9283-d89260104f49&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.05.17-19.28.23:365][721]LogHttp: Warning: 00000749E9053800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.05.17-19.28.23:365][721]LogHttp: Warning: 00000749E9053800: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.05.17-19.28.23:365][721]LogHttp: Warning: 00000749E9053800: libcurl info message cache 1 (Closing connection)
+[2024.05.17-19.28.23:365][721]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B94885473-493F-3764-F0C5-B1BED7F43515%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.4.1-33305029%2B%2B%2BUE5%2BRelease-5.4&UserID=5bd7cb9448b5f898562366846025d7ec%7C57bd556745374c7db549b0bf6e88b3d8%7C82ed0bed-d29d-4c7a-9283-d89260104f49&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.05.17-19.29.23:840][430]LogHttp: Warning: 00000749E4B60700: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.05.17-19.29.23:840][430]LogHttp: Warning: 00000749E4B60700: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.05.17-19.29.23:840][430]LogHttp: Warning: 00000749E4B60700: libcurl info message cache 1 (Closing connection)
+[2024.05.17-19.29.23:840][430]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B94885473-493F-3764-F0C5-B1BED7F43515%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.4.1-33305029%2B%2B%2BUE5%2BRelease-5.4&UserID=5bd7cb9448b5f898562366846025d7ec%7C57bd556745374c7db549b0bf6e88b3d8%7C82ed0bed-d29d-4c7a-9283-d89260104f49&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.05.17-19.29.33:240][680]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2024.05.17-19.29.33:241][680]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.018
+[2024.05.17-19.29.33:241][680]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/MenuesBruno/WBCREDITS] ([2] browsable assets)...
+[2024.05.17-19.29.33:243][680]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/MenuesBruno/WBCREDITS.WBCREDITS]
+[2024.05.17-19.29.33:243][680]OBJ SavePackage: Finished generating thumbnails for package [/Game/MenuesBruno/WBCREDITS]
+[2024.05.17-19.29.33:246][680]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MenuesBruno/WBCREDITS_Auto4
+[2024.05.17-19.29.33:246][680]LogSavePackage: Moving '../../../../../../Users/Bruno Thompson/Documents/Anatidae/Anatidae/Saved/WBCREDITS_Auto47D50C10349AD98F62CF4AAA7A6C1984A.tmp' to '../../../../../../Users/Bruno Thompson/Documents/Anatidae/Anatidae/Saved/Autosaves/Game/MenuesBruno/WBCREDITS_Auto4.uasset'
+[2024.05.17-19.29.33:247][680]LogFileHelpers: Auto-saving content packages took 0.006
+[2024.05.17-19.29.44:081][944]LogEditorTransaction: Undo Drag and Drop Widget
+[2024.05.17-19.29.44:584][954]LogEditorTransaction: Undo Drag and Drop Widget
+[2024.05.17-19.29.45:564][ 66]LogEditorTransaction: Undo Drag and Drop Widget
+[2024.05.17-19.30.23:776][107]LogHttp: Warning: 00000749E0B6BD00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.05.17-19.30.23:776][107]LogHttp: Warning: 00000749E0B6BD00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.05.17-19.30.23:776][107]LogHttp: Warning: 00000749E0B6BD00: libcurl info message cache 1 (Closing connection)
+[2024.05.17-19.30.23:776][107]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B94885473-493F-3764-F0C5-B1BED7F43515%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.4.1-33305029%2B%2B%2BUE5%2BRelease-5.4&UserID=5bd7cb9448b5f898562366846025d7ec%7C57bd556745374c7db549b0bf6e88b3d8%7C82ed0bed-d29d-4c7a-9283-d89260104f49&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.05.17-19.31.23:786][287]LogHttp: Warning: 00000749E0B67700: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.05.17-19.31.23:786][287]LogHttp: Warning: 00000749E0B67700: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.05.17-19.31.23:786][287]LogHttp: Warning: 00000749E0B67700: libcurl info message cache 1 (Closing connection)
+[2024.05.17-19.31.23:786][287]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B94885473-493F-3764-F0C5-B1BED7F43515%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.4.1-33305029%2B%2B%2BUE5%2BRelease-5.4&UserID=5bd7cb9448b5f898562366846025d7ec%7C57bd556745374c7db549b0bf6e88b3d8%7C82ed0bed-d29d-4c7a-9283-d89260104f49&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.05.17-19.32.23:796][467]LogHttp: Warning: 00000749E0B62A00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.05.17-19.32.23:796][467]LogHttp: Warning: 00000749E0B62A00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.05.17-19.32.23:796][467]LogHttp: Warning: 00000749E0B62A00: libcurl info message cache 1 (Closing connection)
+[2024.05.17-19.32.23:796][467]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B94885473-493F-3764-F0C5-B1BED7F43515%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.4.1-33305029%2B%2B%2BUE5%2BRelease-5.4&UserID=5bd7cb9448b5f898562366846025d7ec%7C57bd556745374c7db549b0bf6e88b3d8%7C82ed0bed-d29d-4c7a-9283-d89260104f49&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.05.17-19.33.15:644][126]LogEditorTransaction: Undo Set Vector Property
+[2024.05.17-19.33.18:041][348]LogEditorTransaction: Undo Set Vector Property
+[2024.05.17-19.33.23:376][968]LogHttp: Warning: 00000749E4B67700: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.05.17-19.33.23:376][968]LogHttp: Warning: 00000749E4B67700: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.05.17-19.33.23:376][969]LogHttp: Warning: 00000749E4B67700: libcurl info message cache 1 (Closing connection)
+[2024.05.17-19.33.23:376][969]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B94885473-493F-3764-F0C5-B1BED7F43515%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.4.1-33305029%2B%2B%2BUE5%2BRelease-5.4&UserID=5bd7cb9448b5f898562366846025d7ec%7C57bd556745374c7db549b0bf6e88b3d8%7C82ed0bed-d29d-4c7a-9283-d89260104f49&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.05.17-19.33.44:584][465]LogEditorTransaction: Undo Edit Y
+[2024.05.17-19.34.23:367][ 67]LogHttp: Warning: 00000749A3A0AF00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.05.17-19.34.23:367][ 67]LogHttp: Warning: 00000749A3A0AF00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.05.17-19.34.23:367][ 67]LogHttp: Warning: 00000749A3A0AF00: libcurl info message cache 1 (Closing connection)
+[2024.05.17-19.34.23:368][ 68]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B94885473-493F-3764-F0C5-B1BED7F43515%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.4.1-33305029%2B%2B%2BUE5%2BRelease-5.4&UserID=5bd7cb9448b5f898562366846025d7ec%7C57bd556745374c7db549b0bf6e88b3d8%7C82ed0bed-d29d-4c7a-9283-d89260104f49&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.05.17-19.35.23:370][ 70]LogHttp: Warning: 00000749A3A03100: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.05.17-19.35.23:370][ 70]LogHttp: Warning: 00000749A3A03100: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.05.17-19.35.23:370][ 70]LogHttp: Warning: 00000749A3A03100: libcurl info message cache 1 (Closing connection)
+[2024.05.17-19.35.23:370][ 71]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B94885473-493F-3764-F0C5-B1BED7F43515%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.4.1-33305029%2B%2B%2BUE5%2BRelease-5.4&UserID=5bd7cb9448b5f898562366846025d7ec%7C57bd556745374c7db549b0bf6e88b3d8%7C82ed0bed-d29d-4c7a-9283-d89260104f49&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.05.17-19.36.06:283][170]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.05.17-19.36.07:588][286]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:56450'.
+[2024.05.17-19.36.07:590][286]Could not fetch the local adapter addresses
+[2024.05.17-19.36.07:590][286]LogUdpMessaging: Warning: Failed to join multicast group '230.0.0.1:6666' on detected local interface '0.0.0.0'
+[2024.05.17-19.36.07:595][287]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.05.17-19.36.10:394][486]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:51515'.
+[2024.05.17-19.36.10:395][486]LogUdpMessaging: Display: Added local interface '192.168.100.3' to multicast group '230.0.0.1:6666'
+[2024.05.17-19.38.52:055][321]LogEditorTransaction: Undo Edit Y
+[2024.05.17-19.39.11:182][471]LogEditorTransaction: Undo Edit Top
