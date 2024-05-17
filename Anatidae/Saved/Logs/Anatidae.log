@@ -1105,3 +1105,65 @@ _MatTransl_3B7A55D3409170328211A060FC2E3BB1E263C720_BBD650804D314CE7A44ADF9BB4F3
 [2024.05.17-17.20.55:989][982]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
 [2024.05.17-17.20.58:033][987]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:60510'.
 [2024.05.17-17.20.58:036][987]LogUdpMessaging: Display: Added local interface '192.168.100.3' to multicast group '230.0.0.1:6666'
+[2024.05.17-17.24.58:334][ 78]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/MenuesBruno/WB_MENUES.WB_MENUES
+[2024.05.17-17.25.01:362][409]LogSlate: Window 'WB_MENUES' being destroyed
+[2024.05.17-17.25.01:365][409]LogSlate: Window 'WB_MENUES' being destroyed
+[2024.05.17-17.25.01:371][409]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2024.05.17-17.25.01:371][409]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.17-17.25.01:376][409]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2024.05.17-17.25.01:376][409]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.17-17.25.01:403][409]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2024.05.17-17.25.01:403][409]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.17-17.25.01:407][409]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2024.05.17-17.25.01:408][409]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.17-17.25.01:440][409]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2024.05.17-17.25.02:840][574]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/MenuesBruno/WB_MENUDEATH.WB_MENUDEATH
+[2024.05.17-17.29.24:576][919]LogSlate: Window 'WB_MENUDEATH' being destroyed
+[2024.05.17-17.29.24:580][919]LogSlate: Window 'WB_MENUDEATH' being destroyed
+[2024.05.17-17.29.24:584][919]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2024.05.17-17.29.24:584][919]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.17-17.29.24:589][919]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2024.05.17-17.29.24:589][919]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.17-17.29.24:625][919]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2024.05.17-17.30.32:354][402]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2024.05.17-18.46.07:219][403]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=22644
+[2024.05.17-18.46.07:976][403]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.05.17-18.46.07:976][403]LogHttp: Warning: 00000749E07BCB00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.05.17-18.46.07:976][403]LogHttp: Warning: 00000749E07BCB00: libcurl info message cache 0 (Too old connection (4606 seconds idle), disconnect it)
+[2024.05.17-18.46.07:976][403]LogHttp: Warning: 00000749E07BCB00: libcurl info message cache 1 (Connection 12 seems to be dead)
+[2024.05.17-18.46.07:976][403]LogHttp: Warning: 00000749E07BCB00: libcurl info message cache 2 (Closing connection)
+[2024.05.17-18.46.07:976][403]LogHttp: Warning: 00000749E07BCB00: libcurl info message cache 3 (Recv failure: Connection was reset)
+[2024.05.17-18.46.07:976][403]LogHttp: Warning: 00000749E07BCB00: libcurl info message cache 4 (Send failure: Connection was reset)
+[2024.05.17-18.46.07:977][403]LogHttp: Warning: 00000749E07BCB00: libcurl info message cache 5 (Recv failure: Connection was reset)
+[2024.05.17-18.46.07:977][403]LogHttp: Warning: 00000749E07BCB00: libcurl info message cache 6 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.05.17-18.46.07:977][403]LogHttp: Warning: 00000749E07BCB00: libcurl info message cache 7 (Closing connection)
+[2024.05.17-18.46.07:978][403]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B94885473-493F-3764-F0C5-B1BED7F43515%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.4.1-33305029%2B%2B%2BUE5%2BRelease-5.4&UserID=5bd7cb9448b5f898562366846025d7ec%7C57bd556745374c7db549b0bf6e88b3d8%7C82ed0bed-d29d-4c7a-9283-d89260104f49&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.05.17-18.46.09:198][405]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{a031f92f-9f83-4baf-9ec1-0c2923b8a3f4}, Name=Altavoces (Total Recorder WDM audio driver)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=766.99
+[2024.05.17-18.46.09:445][405]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.05.17-18.46.09:447][405]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.05.17-18.46.10:044][406]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:60976'.
+[2024.05.17-18.46.10:045][406]LogUdpMessaging: Display: Added local interface '192.168.100.3' to multicast group '230.0.0.1:6666'
+[2024.05.17-18.48.37:377][182]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/MenuesBruno/WBCREDITS.WBCREDITS
+[2024.05.17-18.50.30:741][681]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.17-18.50.30:797][681]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/MenuesBruno/WBCREDITS] ([2] browsable assets)...
+[2024.05.17-18.50.30:800][681]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/MenuesBruno/WBCREDITS.WBCREDITS]
+[2024.05.17-18.50.30:800][681]OBJ SavePackage: Finished generating thumbnails for package [/Game/MenuesBruno/WBCREDITS]
+[2024.05.17-18.50.30:800][681]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MenuesBruno/WBCREDITS" FILE="../../../../../../Users/Bruno Thompson/Documents/Anatidae/Anatidae/Content/MenuesBruno/WBCREDITS.uasset" SILENT=true
+[2024.05.17-18.50.30:807][681]LogSavePackage: Moving output files for package: /Game/MenuesBruno/WBCREDITS
+[2024.05.17-18.50.30:807][681]LogSavePackage: Moving '../../../../../../Users/Bruno Thompson/Documents/Anatidae/Anatidae/Saved/WBCREDITSAE1D2A0841C1B4C062129AA43E4F8C62.tmp' to '../../../../../../Users/Bruno Thompson/Documents/Anatidae/Anatidae/Content/MenuesBruno/WBCREDITS.uasset'
+[2024.05.17-18.50.30:814][681]LogFileHelpers: InternalPromptForCheckoutAndSave took 73.101 ms (total: 263.898 ms)
+[2024.05.17-18.50.30:863][681]LogContentValidation: Display: Starting to validate 1 assets
+[2024.05.17-18.50.30:863][681]LogContentValidation: Enabled validators:
+[2024.05.17-18.50.30:863][681]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.05.17-18.50.30:863][681]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.05.17-18.50.30:863][681]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.05.17-18.50.30:863][681]LogContentValidation: Display: Validating asset /Game/MenuesBruno/WBCREDITS.WBCREDITS
+[2024.05.17-18.50.30:863][681]AssetCheck: /Game/MenuesBruno/WBCREDITS Validating asset
+[2024.05.17-18.56.34:608][809]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2024.05.17-18.56.34:610][809]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.024
+[2024.05.17-18.56.34:610][809]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/MenuesBruno/WBCREDITS] ([2] browsable assets)...
+[2024.05.17-18.56.34:612][809]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/MenuesBruno/WBCREDITS.WBCREDITS]
+[2024.05.17-18.56.34:612][809]OBJ SavePackage: Finished generating thumbnails for package [/Game/MenuesBruno/WBCREDITS]
+[2024.05.17-18.56.34:616][809]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MenuesBruno/WBCREDITS_Auto2
+[2024.05.17-18.56.34:616][809]LogSavePackage: Moving '../../../../../../Users/Bruno Thompson/Documents/Anatidae/Anatidae/Saved/WBCREDITS_Auto2C9A30D62457F309509CA35A230928839.tmp' to '../../../../../../Users/Bruno Thompson/Documents/Anatidae/Anatidae/Saved/Autosaves/Game/MenuesBruno/WBCREDITS_Auto2.uasset'
+[2024.05.17-18.56.34:617][809]LogFileHelpers: Auto-saving content packages took 0.007
