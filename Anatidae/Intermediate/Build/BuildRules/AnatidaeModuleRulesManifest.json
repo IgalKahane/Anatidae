@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"D:\\GitHub\\Anatidae\\Anatidae\\Intermediate\\Source\\Anatidae.Build.cs",
+		"D:\\GitHub\\Anatidae\\Anatidae\\Intermediate\\Source\\Anatidae.Target.cs",
+		"D:\\GitHub\\Anatidae\\Anatidae\\Intermediate\\Source\\AnatidaeClient.Target.cs",
+		"D:\\GitHub\\Anatidae\\Anatidae\\Intermediate\\Source\\AnatidaeEditor.Target.cs",
+		"D:\\GitHub\\Anatidae\\Anatidae\\Intermediate\\Source\\AnatidaeServer.Target.cs"
+	],
+	"EngineVersion": "5.4.1"
+}
